@@ -67,5 +67,3 @@ We followed the CRISP-DM methodology:
 - 🚩 Scrutinize claims with chess or CrossFit hobbies.
 - ⚡ Fast-track minor damage and dancing-related claims.
 - 🎯 Focus fraud detection on mid-severity claims (not total loss or minor).
-
-## 🖥️ How to Use This Repository
